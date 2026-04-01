@@ -34,7 +34,4 @@ This project implements a hybrid emotion analysis system that combines natural l
 - Emotion-aware AI systems
 
 ## Author
-[Your Name]
-
-## GitHub
-[Your repository link]
+[Emilio Rodriguez]
